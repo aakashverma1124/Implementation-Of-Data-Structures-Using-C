@@ -45,4 +45,5 @@ int main() {
     cin >> n;
     int numberOfPrimes = makeSieve(n);
     cout << numberOfPrimes << endl;
+    return 0;
 }
